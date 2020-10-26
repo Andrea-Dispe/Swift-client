@@ -15,7 +15,27 @@ Swift is a minimal, cross-platform web application for fast and simple video con
 git clone https://github.com/Andrea-Dispe/Swift-client
 ```
 
+2. Run npm install from the root to install dependencies
+```bash
+npm install
+```
+
+3. Start the development server
+```bash
+npm start
+```
+
+**Pssssst!**
+The [Swift Server](https://github.com/Andrea-Dispe/Swift-server) is recommended to run any real-time web communication.
+
 ## Built with
+* React
+* Typescript
+* Apollo Client/GraphQL
+* Peer JS
+* socket.io
+* MediaDevices Web API
+* Sass
 * Powered by caffeine (and sometimes 🍷 🍻)
 
 ## Made by
