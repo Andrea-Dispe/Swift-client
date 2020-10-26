@@ -35,13 +35,13 @@ npm start
 The [Swift Server](https://github.com/Andrea-Dispe/Swift-server) is recommended to run any real-time web communication.
 
 ## Built with
-* React
-* Typescript
-* Apollo Client/GraphQL
-* Peer JS
-* socket.io
-* MediaDevices Web API
-* Sass
+* [React](https://reactjs.org/)
+* [Typescript](https://www.typescriptlang.org/)
+* [Apollo Client/GraphQL](https://www.apollographql.com/docs/)
+* [Peer JS](https://peerjs.com/)
+* [socket.io](https://socket.io/)
+* [MediaDevices API](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices)
+* [Sass](https://sass-lang.com/)
 * Powered by caffeine (and sometimes 🍷 🍻)
 
 ## Made by
