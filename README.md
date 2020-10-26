@@ -20,7 +20,12 @@ git clone https://github.com/Andrea-Dispe/Swift-client
 npm install
 ```
 
-3. Start the development server
+3. Go into the src folder
+```bash
+cd src
+```
+
+4. Start the development server
 ```bash
 npm start
 ```
