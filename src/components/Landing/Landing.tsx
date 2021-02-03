@@ -51,7 +51,7 @@ const Landing = (): JSX.Element => {
         });
 
       }
-      
+
       history.push('/meeting');
 
     } catch (err) {
@@ -61,6 +61,7 @@ const Landing = (): JSX.Element => {
 
   return (
     <div className="landing">
+      <span>Don't mind me, I am a test</span>
       <img src={logo} alt="Logo" className="logo" />
       <div className="hero-stack">
         <h1>Fast video meetings made simple.</h1>
